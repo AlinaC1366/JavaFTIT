@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="642acd56-df04-4e2e-a3a8-b097a943c131" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/course/MyFirstIntellij.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course/SimplifiedForIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course/StringEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course/StringExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ExercisesString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Homework4Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="curs5" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2FM59S1Hej73aFPtbtfWgDz8vtU" />
@@ -36,7 +37,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Homework4Strings">
+    <configuration name="Homework4Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Homework4Strings" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="course.StringExercise" />
       <module name="untitled" />
@@ -52,6 +66,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework4Strings" />
+        <item itemvalue="Application.StringExercise" />
         <item itemvalue="Application.StringExercise" />
       </list>
     </recent_temporary>
