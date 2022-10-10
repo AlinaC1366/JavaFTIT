@@ -1,0 +1,709 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"642acd56-df04-4e2e-a3a8-b097a943c131\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/course/classes/Person.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/course/enums/CardinalPoints.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/course/enums/ComplexCardinalPoint.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/course/enums/EnumExcercise.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/course/homework10/Classroom.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/course/homework10/EqualsExample.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/course/homework10/ReportGenerator.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/course/homework10/StudentGrade.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/course/maps/MapExercise.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2FM59S1Hej73aFPtbtfWgDz8vtU\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"642acd56-df04-4e2e-a3a8-b097a943c131\" name=\"Changes\" comment=\"\" />\r\n      <created>1664288963039</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1664288963039</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"curs4\">\r\n      <created>1665425034777</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665425034777</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"curs4\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"curs4\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 3ed960d1c50c850bccb2219da8f1251deb9d8f32)
++++ b/.idea/workspace.xml	(date 1665426078145)
+@@ -1,18 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="642acd56-df04-4e2e-a3a8-b097a943c131" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/course/classes/Person.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/course/enums/CardinalPoints.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/course/enums/ComplexCardinalPoint.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/course/enums/EnumExcercise.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/course/homework10/Classroom.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/course/homework10/EqualsExample.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/course/homework10/ReportGenerator.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/course/homework10/StudentGrade.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/course/maps/MapExercise.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="642acd56-df04-4e2e-a3a8-b097a943c131" name="Changes" comment="curs11" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -61,7 +50,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1665425034777</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="curs11">
++      <created>1665426071938</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1665426071938</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -77,6 +73,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="curs4" />
+-    <option name="LAST_COMMIT_MESSAGE" value="curs4" />
++    <MESSAGE value="curs11" />
++    <option name="LAST_COMMIT_MESSAGE" value="curs11" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_10_10_2022_9_03_PM_[Changes]1/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_10_2022_9_03_PM_[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_10_2022_9_03_PM_[Changes]1/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1665426084565)
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_10_2022_9_03_PM_[Changes]1/shelved.patch	(date 1665426084565)
+@@ -0,0 +1,239 @@
++Index: src/homework/ExtraMile.java
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/src/homework/ExtraMile.java b/src/homework/ExtraMile.java
++new file mode 100644
++--- /dev/null	(date 1665424992561)
+++++ b/src/homework/ExtraMile.java	(date 1665424992561)
++@@ -0,0 +1,67 @@
+++package homework;
+++
+++import java.util.Arrays;
+++
+++public class ExtraMile {
+++    public static void main(String[] args) {
+++
+++
+++        System.out.println("Exercise 1 ");
+++       int countTo100;
+++
+++        System.out.println("Count to 100 w For");
+++        for(countTo100 = 0; countTo100 <= 99;countTo100++) {
+++            System.out.print( countTo100+",");
+++        }
+++
+++        System.out.print(100);
+++
+++
+++        System.out.println("Count to 100 w While");
+++        int countTo100W = 1, n = 100;
+++
+++        while(countTo100W <= n) {
+++            System.out.println(countTo100W);
+++            countTo100W++;
+++        }
+++
+++        System.out.println("Count to 100 w DoWhile");
+++
+++        int i = 0;
+++        int n2 =100;
+++
+++        do{
+++            i= n2;
+++            i++;
+++        } while(i<n2);
+++
+++        System.out.println(i);
+++
+++        System.out.println("Exercise 2");
+++        String printFunction[] = {"Cats", "Dogs", "Rabbits"};
+++        System.out.println(Arrays.toString(printFunction));
+++
+++        System.out.println("Exercise 3");
+++        String printS2Element[] ={"Cat", "Dog", "Butterfly", "Zebra"};
+++      //  char index = printS2Element.toCharArray(0);
+++      //  char index = printS2Element.to
+++      //  System.out.println(index);
+++        
+++    }
+++
+++  /*       
+++
+++        for(){
+++*/
+++    
+++  }
+++
+++
+++}
+++
+++
+++
+++
+++
+++
+++
++Index: src/homework/Homework4Confidential.java
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/src/homework/Homework4Confidential.java b/src/homework/Homework4Confidential.java
++new file mode 100644
++--- /dev/null	(date 1665424992572)
+++++ b/src/homework/Homework4Confidential.java	(date 1665424992572)
++@@ -0,0 +1,58 @@
+++package homework;
+++
+++public class Homework4Confidential {
+++    public static void main(String[] args) {
+++        String[] sensitiveWords = {"mere", "Ana"};
+++        System.out.println(confidential("Ana are mere multe mere bune", sensitiveWords));
+++        System.out.println(confidential("", sensitiveWords));
+++        System.out.println(confidential(null, sensitiveWords));
+++        System.out.println(confidential("Ana  are mere multe m bune", sensitiveWords));
+++    }
+++
+++    public static int countChar(String text, char c) {
+++        int result = 0;
+++        for (int i = 0; i < text.length(); i++) {
+++            if (text.charAt(i) == c) {
+++                result++;
+++            }
+++        }
+++        return result;
+++    }
+++
+++    public static int countCharV2(String text, char c) {
+++        String replaced = text.replaceAll(String.valueOf(c), "");
+++        return text.length() - replaced.length();
+++    }
+++
+++    public static String redact(String text) {
+++        return text.replaceAll(".", "*");
+++    }
+++
+++    public static boolean contains(String[] texts, String contained) {
+++        for (String text : texts) {
+++            if (text.equals(contained)) {
+++                return true;
+++            }
+++        }
+++        return false;
+++    }
+++
+++    public static String[] words(String text) {
+++        return text.split(" +");
+++        // some change
+++        // another change
+++    }
+++
+++    public static String confidential(String text, String[] sensitiveWords) {
+++        if (text == null || text.length() == 0) {
+++            return text;
+++        }
+++        String[] words = words(text);
+++        for (int i = 0; i < words.length; i++) {
+++            if (contains(sensitiveWords, words[i])) {
+++                words[i] = redact(words[i]);
+++            }
+++        }
+++        return String.join(" ", words);
+++    }
+++}
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"642acd56-df04-4e2e-a3a8-b097a943c131\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2FM59S1Hej73aFPtbtfWgDz8vtU\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"642acd56-df04-4e2e-a3a8-b097a943c131\" name=\"Changes\" comment=\"\" />\r\n      <created>1664288963039</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1664288963039</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	(revision e25066098e3ccdd49be381fa66542bbe802f5169)
+++++ b/.idea/workspace.xml	(date 1665424993190)
++@@ -1,24 +1,77 @@
++ <?xml version="1.0" encoding="UTF-8"?>
++ <project version="4">
++   <component name="ChangeListManager">
++-    <list default="true" id="642acd56-df04-4e2e-a3a8-b097a943c131" name="Changes" comment="" />
+++    <list default="true" id="642acd56-df04-4e2e-a3a8-b097a943c131" name="Changes" comment="">
+++      <change afterPath="$PROJECT_DIR$/src/homework/Homework4Strings.java" afterDir="false" />
+++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+++    </list>
++     <option name="SHOW_DIALOG" value="false" />
++     <option name="HIGHLIGHT_CONFLICTS" value="true" />
++     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++     <option name="LAST_RESOLUTION" value="IGNORE" />
++   </component>
+++  <component name="FileTemplateManagerImpl">
+++    <option name="RECENT_TEMPLATES">
+++      <list>
+++        <option value="Class" />
+++      </list>
+++    </option>
+++  </component>
+++  <component name="Git.Settings">
+++    <option name="RECENT_BRANCH_BY_REPOSITORY">
+++      <map>
+++        <entry key="$PROJECT_DIR$" value="curs5" />
+++      </map>
+++    </option>
+++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+++  </component>
++   <component name="ProjectId" id="2FM59S1Hej73aFPtbtfWgDz8vtU" />
++   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++   <component name="ProjectViewState">
++     <option name="hideEmptyMiddlePackages" value="true" />
++     <option name="showLibraryContents" value="true" />
++   </component>
++-  <component name="PropertiesComponent"><![CDATA[{
++-  "keyToString": {
++-    "RunOnceActivity.OpenProjectViewOnStart": "true",
++-    "RunOnceActivity.ShowReadmeOnStart": "true"
+++  <component name="PropertiesComponent">{
+++  &quot;keyToString&quot;: {
+++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
++   }
++-}]]></component>
+++}</component>
+++  <component name="RunManager" selected="Application.Homework4Strings">
+++    <configuration name="Homework4Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+++      <option name="MAIN_CLASS_NAME" value="homework.Homework4Strings" />
+++      <module name="untitled" />
+++      <extension name="coverage">
+++        <pattern>
+++          <option name="PATTERN" value="homework.*" />
+++          <option name="ENABLED" value="true" />
+++        </pattern>
+++      </extension>
+++      <method v="2">
+++        <option name="Make" enabled="true" />
+++      </method>
+++    </configuration>
+++    <configuration name="StringExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+++      <option name="MAIN_CLASS_NAME" value="course.StringExercise" />
+++      <module name="untitled" />
+++      <extension name="coverage">
+++        <pattern>
+++          <option name="PATTERN" value="course.*" />
+++          <option name="ENABLED" value="true" />
+++        </pattern>
+++      </extension>
+++      <method v="2">
+++        <option name="Make" enabled="true" />
+++      </method>
+++    </configuration>
+++    <recent_temporary>
+++      <list>
+++        <item itemvalue="Application.Homework4Strings" />
+++        <item itemvalue="Application.StringExercise" />
+++        <item itemvalue="Application.StringExercise" />
+++      </list>
+++    </recent_temporary>
+++  </component>
++   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++   <component name="TaskManager">
++     <task active="true" id="Default" summary="Default task">
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_10_10_2022_9_03_PM_[Changes]/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_10_2022_9_03_PM_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_10_2022_9_03_PM_[Changes]/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1665426084564)
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_10_2022_9_03_PM_[Changes]/shelved.patch	(date 1665426084564)
+@@ -0,0 +1,249 @@
++Index: src/homework/ExtraMile.java
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/src/homework/ExtraMile.java b/src/homework/ExtraMile.java
++new file mode 100644
++--- /dev/null	(date 1665424972604)
+++++ b/src/homework/ExtraMile.java	(date 1665424972604)
++@@ -0,0 +1,67 @@
+++package homework;
+++
+++import java.util.Arrays;
+++
+++public class ExtraMile {
+++    public static void main(String[] args) {
+++
+++
+++        System.out.println("Exercise 1 ");
+++       int countTo100;
+++
+++        System.out.println("Count to 100 w For");
+++        for(countTo100 = 0; countTo100 <= 99;countTo100++) {
+++            System.out.print( countTo100+",");
+++        }
+++
+++        System.out.print(100);
+++
+++
+++        System.out.println("Count to 100 w While");
+++        int countTo100W = 1, n = 100;
+++
+++        while(countTo100W <= n) {
+++            System.out.println(countTo100W);
+++            countTo100W++;
+++        }
+++
+++        System.out.println("Count to 100 w DoWhile");
+++
+++        int i = 0;
+++        int n2 =100;
+++
+++        do{
+++            i= n2;
+++            i++;
+++        } while(i<n2);
+++
+++        System.out.println(i);
+++
+++        System.out.println("Exercise 2");
+++        String printFunction[] = {"Cats", "Dogs", "Rabbits"};
+++        System.out.println(Arrays.toString(printFunction));
+++
+++        System.out.println("Exercise 3");
+++        String printS2Element[] ={"Cat", "Dog", "Butterfly", "Zebra"};
+++      //  char index = printS2Element.toCharArray(0);
+++      //  char index = printS2Element.to
+++      //  System.out.println(index);
+++        
+++    }
+++
+++  /*       
+++
+++        for(){
+++*/
+++    
+++  }
+++
+++
+++}
+++
+++
+++
+++
+++
+++
+++
++Index: src/homework/Homework4Confidential.java
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/src/homework/Homework4Confidential.java b/src/homework/Homework4Confidential.java
++new file mode 100644
++--- /dev/null	(date 1664387412040)
+++++ b/src/homework/Homework4Confidential.java	(date 1664387412040)
++@@ -0,0 +1,58 @@
+++package homework;
+++
+++public class Homework4Confidential {
+++    public static void main(String[] args) {
+++        String[] sensitiveWords = {"mere", "Ana"};
+++        System.out.println(confidential("Ana are mere multe mere bune", sensitiveWords));
+++        System.out.println(confidential("", sensitiveWords));
+++        System.out.println(confidential(null, sensitiveWords));
+++        System.out.println(confidential("Ana  are mere multe m bune", sensitiveWords));
+++    }
+++
+++    public static int countChar(String text, char c) {
+++        int result = 0;
+++        for (int i = 0; i < text.length(); i++) {
+++            if (text.charAt(i) == c) {
+++                result++;
+++            }
+++        }
+++        return result;
+++    }
+++
+++    public static int countCharV2(String text, char c) {
+++        String replaced = text.replaceAll(String.valueOf(c), "");
+++        return text.length() - replaced.length();
+++    }
+++
+++    public static String redact(String text) {
+++        return text.replaceAll(".", "*");
+++    }
+++
+++    public static boolean contains(String[] texts, String contained) {
+++        for (String text : texts) {
+++            if (text.equals(contained)) {
+++                return true;
+++            }
+++        }
+++        return false;
+++    }
+++
+++    public static String[] words(String text) {
+++        return text.split(" +");
+++        // some change
+++        // another change
+++    }
+++
+++    public static String confidential(String text, String[] sensitiveWords) {
+++        if (text == null || text.length() == 0) {
+++            return text;
+++        }
+++        String[] words = words(text);
+++        for (int i = 0; i < words.length; i++) {
+++            if (contains(sensitiveWords, words[i])) {
+++                words[i] = redact(words[i]);
+++            }
+++        }
+++        return String.join(" ", words);
+++    }
+++}
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"642acd56-df04-4e2e-a3a8-b097a943c131\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/homework/Homework4Strings.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"curs5\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2FM59S1Hej73aFPtbtfWgDz8vtU\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Application.Homework4Strings\">\r\n    <configuration name=\"Homework4Strings\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"homework.Homework4Strings\" />\r\n      <module name=\"untitled\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"homework.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"StringExercise\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"course.StringExercise\" />\r\n      <module name=\"untitled\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"course.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Homework4Strings\" />\r\n        <item itemvalue=\"Application.StringExercise\" />\r\n        <item itemvalue=\"Application.StringExercise\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"642acd56-df04-4e2e-a3a8-b097a943c131\" name=\"Changes\" comment=\"\" />\r\n      <created>1664288963039</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1664288963039</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	(revision bf82a50ad632d0094390f3c9a9e1bdb4c1f805f1)
+++++ b/.idea/workspace.xml	(date 1664388078716)
++@@ -1,8 +1,9 @@
++ <?xml version="1.0" encoding="UTF-8"?>
++ <project version="4">
++   <component name="ChangeListManager">
++-    <list default="true" id="642acd56-df04-4e2e-a3a8-b097a943c131" name="Changes" comment="">
++-      <change afterPath="$PROJECT_DIR$/src/homework/Homework4Strings.java" afterDir="false" />
+++    <list default="true" id="642acd56-df04-4e2e-a3a8-b097a943c131" name="Changes" comment="curs4">
+++      <change afterPath="$PROJECT_DIR$/src/homework/ExtraMile.java" afterDir="false" />
+++      <change afterPath="$PROJECT_DIR$/src/homework/Homework4Confidential.java" afterDir="false" />
++       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++     </list>
++     <option name="SHOW_DIALOG" value="false" />
++@@ -37,7 +38,33 @@
++     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
++   }
++ }</component>
++-  <component name="RunManager" selected="Application.Homework4Strings">
+++  <component name="RunManager" selected="Application.ExtraMile">
+++    <configuration name="ExtraMile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+++      <option name="MAIN_CLASS_NAME" value="homework.ExtraMile" />
+++      <module name="untitled" />
+++      <extension name="coverage">
+++        <pattern>
+++          <option name="PATTERN" value="homework.*" />
+++          <option name="ENABLED" value="true" />
+++        </pattern>
+++      </extension>
+++      <method v="2">
+++        <option name="Make" enabled="true" />
+++      </method>
+++    </configuration>
+++    <configuration name="Homework4Confidential" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+++      <option name="MAIN_CLASS_NAME" value="homework.Homework4Confidential" />
+++      <module name="untitled" />
+++      <extension name="coverage">
+++        <pattern>
+++          <option name="PATTERN" value="homework.*" />
+++          <option name="ENABLED" value="true" />
+++        </pattern>
+++      </extension>
+++      <method v="2">
+++        <option name="Make" enabled="true" />
+++      </method>
+++    </configuration>
++     <configuration name="Homework4Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++       <option name="MAIN_CLASS_NAME" value="homework.Homework4Strings" />
++       <module name="untitled" />
++@@ -66,6 +93,8 @@
++     </configuration>
++     <recent_temporary>
++       <list>
+++        <item itemvalue="Application.ExtraMile" />
+++        <item itemvalue="Application.Homework4Confidential" />
++         <item itemvalue="Application.Homework4Strings" />
++         <item itemvalue="Application.StringExercise" />
++         <item itemvalue="Application.StringExercise" />
++@@ -81,6 +110,14 @@
++       <option name="presentableId" value="Default" />
++       <updated>1664288963039</updated>
++     </task>
+++    <task id="LOCAL-00001" summary="curs4">
+++      <created>1664385769686</created>
+++      <option name="number" value="00001" />
+++      <option name="presentableId" value="LOCAL-00001" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1664385769686</updated>
+++    </task>
+++    <option name="localTasksCounter" value="2" />
++     <servers />
++   </component>
++   <component name="Vcs.Log.Tabs.Properties">
++@@ -88,10 +125,20 @@
++       <map>
++         <entry key="MAIN">
++           <value>
++-            <State />
+++            <State>
+++              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+++                <map>
+++                  <entry key="Show.Git.Branches" value="false" />
+++                </map>
+++              </option>
+++            </State>
++           </value>
++         </entry>
++       </map>
++     </option>
++   </component>
+++  <component name="VcsManagerConfiguration">
+++    <MESSAGE value="curs4" />
+++    <option name="LAST_COMMIT_MESSAGE" value="curs4" />
+++  </component>
++ </project>
++\ No newline at end of file
+Index: src/homework/Homework4Confidential.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/Homework4Confidential.java b/src/homework/Homework4Confidential.java
+new file mode 100644
+--- /dev/null	(date 1665426084566)
++++ b/src/homework/Homework4Confidential.java	(date 1665426084566)
+@@ -0,0 +1,58 @@
++package homework;
++
++public class Homework4Confidential {
++    public static void main(String[] args) {
++        String[] sensitiveWords = {"mere", "Ana"};
++        System.out.println(confidential("Ana are mere multe mere bune", sensitiveWords));
++        System.out.println(confidential("", sensitiveWords));
++        System.out.println(confidential(null, sensitiveWords));
++        System.out.println(confidential("Ana  are mere multe m bune", sensitiveWords));
++    }
++
++    public static int countChar(String text, char c) {
++        int result = 0;
++        for (int i = 0; i < text.length(); i++) {
++            if (text.charAt(i) == c) {
++                result++;
++            }
++        }
++        return result;
++    }
++
++    public static int countCharV2(String text, char c) {
++        String replaced = text.replaceAll(String.valueOf(c), "");
++        return text.length() - replaced.length();
++    }
++
++    public static String redact(String text) {
++        return text.replaceAll(".", "*");
++    }
++
++    public static boolean contains(String[] texts, String contained) {
++        for (String text : texts) {
++            if (text.equals(contained)) {
++                return true;
++            }
++        }
++        return false;
++    }
++
++    public static String[] words(String text) {
++        return text.split(" +");
++        // some change
++        // another change
++    }
++
++    public static String confidential(String text, String[] sensitiveWords) {
++        if (text == null || text.length() == 0) {
++            return text;
++        }
++        String[] words = words(text);
++        for (int i = 0; i < words.length; i++) {
++            if (contains(sensitiveWords, words[i])) {
++                words[i] = redact(words[i]);
++            }
++        }
++        return String.join(" ", words);
++    }
++}
+Index: src/homework/ExtraMile.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/homework/ExtraMile.java b/src/homework/ExtraMile.java
+new file mode 100644
+--- /dev/null	(date 1665426084566)
++++ b/src/homework/ExtraMile.java	(date 1665426084566)
+@@ -0,0 +1,67 @@
++package homework;
++
++import java.util.Arrays;
++
++public class ExtraMile {
++    public static void main(String[] args) {
++
++
++        System.out.println("Exercise 1 ");
++       int countTo100;
++
++        System.out.println("Count to 100 w For");
++        for(countTo100 = 0; countTo100 <= 99;countTo100++) {
++            System.out.print( countTo100+",");
++        }
++
++        System.out.print(100);
++
++
++        System.out.println("Count to 100 w While");
++        int countTo100W = 1, n = 100;
++
++        while(countTo100W <= n) {
++            System.out.println(countTo100W);
++            countTo100W++;
++        }
++
++        System.out.println("Count to 100 w DoWhile");
++
++        int i = 0;
++        int n2 =100;
++
++        do{
++            i= n2;
++            i++;
++        } while(i<n2);
++
++        System.out.println(i);
++
++        System.out.println("Exercise 2");
++        String printFunction[] = {"Cats", "Dogs", "Rabbits"};
++        System.out.println(Arrays.toString(printFunction));
++
++        System.out.println("Exercise 3");
++        String printS2Element[] ={"Cat", "Dog", "Butterfly", "Zebra"};
++      //  char index = printS2Element.toCharArray(0);
++      //  char index = printS2Element.to
++      //  System.out.println(index);
++        
++    }
++
++  /*       
++
++        for(){
++*/
++    
++  }
++
++
++}
++
++
++
++
++
++
++
