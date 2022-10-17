@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="642acd56-df04-4e2e-a3a8-b097a943c131" name="Changes" comment="curs11">
-      <change afterPath="$PROJECT_DIR$/src/homework11/Ex2/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework11/Ex2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework11/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework11/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/classes/Dsdjifd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework11/Ex2/PersonMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework11/Ex2/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework11/Ex2/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework11/Ex2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework11/Ex2/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +39,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MapExercise1">
+}</component>
+  <component name="RunManager" selected="Application.Dsdjifd">
+    <configuration name="Dsdjifd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course.classes.Dsdjifd" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MapExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="course.maps.MapExercise" />
       <module name="untitled" />
@@ -75,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dsdjifd" />
         <item itemvalue="Application.MapExercise1" />
         <item itemvalue="Application.MapExercise" />
       </list>
@@ -96,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665425034777</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="curs11">
+      <created>1665433440988</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665433440988</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

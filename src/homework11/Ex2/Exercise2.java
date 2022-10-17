@@ -3,7 +3,7 @@ package homework11.Ex2;
 import java.util.HashMap;
 import java.util.Map;
 
-
+/*
 
 public class Exercise2 extends Person {
     public Exercise2(String name, String occupation, String haircolour) {
@@ -18,6 +18,9 @@ public class Exercise2 extends Person {
            // nameToAge.put(name,13);
 
            //nope i have no idea
+
+
+            }
         }
     }
-}
+*/
